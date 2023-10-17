@@ -1,3 +1,5 @@
+Youtube clone application using React JS as the front end with Material UI.
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
